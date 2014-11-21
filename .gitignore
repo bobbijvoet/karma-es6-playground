@@ -1,0 +1,12 @@
+npm-debug.log
+.idea/*
+*.iml
+*.sublime-*
+projectFilesBackup
+app/css
+node_modules
+app/bower_components
+app/js/lib
+
+.sass-cache
+app/dist/js/app.min.js
